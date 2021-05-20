@@ -1,0 +1,1 @@
+Esse arquivo tem por objetivo ser deletado pelo comando do Git.
